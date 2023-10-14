@@ -17,4 +17,4 @@ Dashboard 4 Public Link - https://public.tableau.com/views/Dashboard4_1696655104
 
 Story Public Link - https://public.tableau.com/views/Story1_16966552156410/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Video demonstartion link -
+Video demonstartion link - https://public.tableau.com/app/profile/arjun.singh.g/vizzes
